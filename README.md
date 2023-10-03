@@ -26,6 +26,8 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ![img1](https://github.com/CelioAmaral/DesafioPOO/blob/main/src/main/resources/Diagrama_uml.png)
 
+![img2](https://github.com/CelioAmaral/DesafioPOO/blob/main/src/main/resources/cert1.png)
+
 ## 👨🏽‍💻 Desafio Realizado por:
 
 <img src="https://avatars.githubusercontent.com/u/85323953?v=4" width="100px;" alt="foto do desenvolvedor"/>
