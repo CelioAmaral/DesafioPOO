@@ -24,7 +24,7 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ## Diagrama do Projeto: POO + UML: Diagramação de Classes/Interfaces do iPhone:
 
-![img1]()
+![img1](https://github.com/CelioAmaral/DesafioPOO/blob/main/src/main/resources/Diagrama_uml.png)
 
 ## 👨🏽‍💻 Desafio Realizado por:
 
